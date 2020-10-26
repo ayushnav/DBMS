@@ -1,5 +1,6 @@
 # DBMS-VEHICLE PARKING MANAGEMENT SYSTEM
-python projecting using sqlite database and django framework
+this is a project made by group 24 under the faculty Nancy Victor. 
+this is python based project using sqlite database and django framework
 
 To run the code :-
 
